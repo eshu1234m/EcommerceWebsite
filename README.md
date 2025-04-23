@@ -1,8 +1,6 @@
 Name: Megavath Eshwar
 
-Company: CODTECH IT SOLUTIONS
 
-Intern ID : CT08DS364
 
 Domain:Data Analytics
 
